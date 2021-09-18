@@ -1,0 +1,18 @@
+package practice_0913;
+
+public class chapter_5 {
+	int studentID;
+	String studentName;
+	int grade;
+	String adress;
+	
+	public void showStudentID() {
+		System.out.println(studentName + "," + adress);
+	}
+	
+	public staticint add(int num1, int num2) {
+		int result;
+		result = num1 + num2;
+		return result;
+	}
+}

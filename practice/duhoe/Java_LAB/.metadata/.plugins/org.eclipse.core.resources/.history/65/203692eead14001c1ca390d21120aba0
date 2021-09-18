@@ -1,0 +1,10 @@
+package practice_0913;
+
+public class chapter_5 {
+	int studentID;
+	String studentName;
+	int grade;
+	String adress;
+	
+
+}

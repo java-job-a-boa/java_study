@@ -1,0 +1,20 @@
+package practice_0907;
+
+public class chapter_4 {
+	public static void main(String[] args) {
+		int rank = 5;
+		char medalColor;
+		
+		switch(rank) {
+			case 3 : medalColor = 'G';
+				break;
+				
+			case 5: medalColor = 'S';
+				break;
+			
+			case 7 : medalColor = 'B';
+		}
+		System.out.println(medalColor);
+		
+	}
+}

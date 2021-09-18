@@ -1,0 +1,11 @@
+package practice_0907;
+
+public class chapter_3 {
+	int testnum = 150;
+	int div_num = 100;
+	
+	float result = testnum / div_num;
+	
+	System.out.println(result);
+	
+}

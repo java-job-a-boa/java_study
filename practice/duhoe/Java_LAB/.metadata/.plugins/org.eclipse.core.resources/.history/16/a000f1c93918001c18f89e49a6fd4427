@@ -1,0 +1,14 @@
+package cooperation;
+
+public class Subway {
+	int lineNumber;
+	int passengerCount;
+	int money;
+	
+	public Subway(int lineNumber) {
+		this.lineNumber = lineNumber;
+		this.passengerCount = 0;
+		this.money = 0;
+		
+	}
+}

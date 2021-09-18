@@ -1,0 +1,12 @@
+package practice_0913;
+
+public class chapter_5_2 {
+	int studentID;
+	String studentName;
+	int grade;
+	String adress;
+	
+	public String getStudentName( ) {
+		return studentName;
+	}
+}

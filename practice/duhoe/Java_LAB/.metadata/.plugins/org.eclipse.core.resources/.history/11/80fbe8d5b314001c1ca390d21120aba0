@@ -1,0 +1,24 @@
+package practice_0913;
+
+public class Student {
+	int studentID;
+	String studentName;
+	int grade;
+	String adress;
+	
+	public String getStudentName( ) {
+		return studentName;
+	}
+	
+	public Student(String pname) {
+		studentName = pname;
+	}
+	
+	public static void main(String[ ] args) {
+		Student studentKim = new Student(String name ="±èµÎÈ¸"); // Å¬·¡½º °´Ã¼ »ý¼º
+		
+		
+		System.out.println(studentKim.studentName);
+	}
+}
+

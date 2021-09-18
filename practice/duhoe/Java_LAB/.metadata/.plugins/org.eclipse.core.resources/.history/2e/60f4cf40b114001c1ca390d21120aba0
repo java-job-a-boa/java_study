@@ -1,0 +1,19 @@
+package practice_0913;
+
+public class Student {
+	int studentID;
+	String studentName;
+	int grade;
+	String adress;
+	
+	public String getStudentName( ) {
+		return studentName;
+	}
+	
+	public static void main(String[ ] args) {
+		Student studentKim= new student(); // Å¬·¡½º °´Ã¼ »ı¼º
+		studentAhn .studentName = "±èµÎÈ¸";
+		
+	}
+}
+
