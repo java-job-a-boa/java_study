@@ -1,4 +1,4 @@
-package argorithm_0917;
+package algorithm_0917;
 
 import java.io.BufferedReader;
 import java.io.IOException;
