@@ -12,7 +12,7 @@
 ### 추상 메서드
 
 * 구현부가 없는 메서드
-  * ex) `abstract ind add(int x, int y)` 
+  * ex) `abstract int add(int x, int y)` 
     * `int add (int x, int y) {}` 는 추상 메서드가 아니다.
     * {} 가 존재하는 것 자체가 구현부가 있는 것
 
